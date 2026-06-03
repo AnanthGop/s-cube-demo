@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1772903810258,
+    "partyAccount": "UVW PARTY",
+    "ledgerAccount": "REPAIRS & MAINTENANCE",
+    "master": "Expenditure",
+    "group": "Operational Costs"
+  },
+  {
+    "id": 1772903816340,
+    "partyAccount": "UVW PARTY",
+    "ledgerAccount": "COMPUTER MAINTENANCE",
+    "master": "Expenditure",
+    "group": "Operational Costs"
+  },
+  {
+    "id": 1772903828466,
+    "partyAccount": "PQR LTD",
+    "ledgerAccount": "PROFESSIONAL CHARGES",
+    "master": "Expenditure",
+    "group": "Operational Costs"
+  }
+]

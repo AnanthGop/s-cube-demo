@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Sandhya",
+    "email": "sandhya@s3.org",
+    "type": "Employee",
+    "role": "Finance",
+    "fund": "LC",
+    "grant": "UN-2024",
+    "func": "ADM-01",
+    "proj": "SOL-1",
+    "status": "Active",
+    "creator": "Admin",
+    "date": "01/10/2023"
+  },
+  {
+    "id": 2,
+    "name": "Ananth",
+    "email": "ananth@s3.org",
+    "type": "Employee",
+    "role": "Admin",
+    "fund": "FC",
+    "grant": "TECH-X",
+    "func": "OPS-99",
+    "proj": "DIG-LIT",
+    "status": "Active",
+    "creator": "Admin",
+    "date": "15/11/2023"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "PD-001",
+    "employeeCategory": "Manager",
+    "perDiemPerDay": 5000,
+    "perDiemLimit": 50000
+  },
+  {
+    "id": "PD-002",
+    "employeeCategory": "Operations",
+    "perDiemPerDay": 4000,
+    "perDiemLimit": 50000
+  },
+  {
+    "id": "PD-003",
+    "employeeCategory": "Finance",
+    "perDiemPerDay": 4500,
+    "perDiemLimit": 50000
+  }
+]

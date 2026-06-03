@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "John Finance",
+    "email": "john.f@s3.org",
+    "type": "Employee",
+    "role": "Finance",
+    "fund": "GF-01",
+    "grant": "UN-2024",
+    "func": "ADM-01",
+    "proj": "SOL-1",
+    "status": "Active",
+    "creator": "Admin",
+    "date": "01/10/2023"
+  },
+  {
+    "id": 2,
+    "name": "Sarah Admin",
+    "email": "sarah.a@s3.org",
+    "type": "Employee",
+    "role": "Admin",
+    "fund": "IF-22",
+    "grant": "TECH-X",
+    "func": "OPS-99",
+    "proj": "DIG-LIT",
+    "status": "Active",
+    "creator": "Admin",
+    "date": "15/11/2023"
+  }
+]

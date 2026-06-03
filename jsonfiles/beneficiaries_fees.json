@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1773907755955,
+    "location": "Mumbai Office",
+    "feesApplicable": "Yes",
+    "feeAmount": "1000"
+  },
+  {
+    "id": 1773907762580,
+    "location": "Delhi Hub",
+    "feesApplicable": "No",
+    "feeAmount": ""
+  },
+  {
+    "id": 1773907770199,
+    "location": "Bengaluru Center",
+    "feesApplicable": "Yes",
+    "feeAmount": "5000"
+  }
+]

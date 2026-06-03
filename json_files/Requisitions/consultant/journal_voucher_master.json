@@ -1,0 +1,42 @@
+{
+  "expenseVoucher": [
+    {
+      "ledger": "Consultant Fees",
+      "consultant": "",
+      "type": "Debit",
+      "showTds": false
+    },
+    {
+      "ledger": "<Consultant Details>",
+      "consultant": "",
+      "type": "Credit",
+      "showTds": false
+    }
+  ],
+  "paymentVoucher": [
+    {
+      "ledger": "<Consultant Details>",
+      "consultant": "",
+      "type": "Debit",
+      "showTds": false
+    },
+    {
+      "ledger": "Bank",
+      "consultant": "",
+      "type": "Credit",
+      "showTds": false
+    }
+  ],
+  "consultantMappings": [
+    {
+      "consultantName": "ABC Consulting Services",
+      "ledgerName": "Sundry Creditors - Consultants",
+      "mappedOn": "2024-01-15"
+    },
+    {
+      "consultantName": "XYZ Technical Services",
+      "ledgerName": "Sundry Creditors - Consultants",
+      "mappedOn": "2024-04-05"
+    }
+  ]
+}

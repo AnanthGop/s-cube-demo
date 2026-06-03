@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1773900490692,
+    "location": "Mumbai Office",
+    "batchNumber": "Mumbai-01",
+    "batchStartDate": "01/04/2026",
+    "batchEndDate": "15/05/2026"
+  },
+  {
+    "id": 1773900515305,
+    "location": "Delhi Hub",
+    "batchNumber": "Delhi-01",
+    "batchStartDate": "15/04/2026",
+    "batchEndDate": "31/05/2026"
+  },
+  {
+    "id": 1773900539835,
+    "location": "Mumbai Office",
+    "batchNumber": "Mumbai-02",
+    "batchStartDate": "01/06/2026",
+    "batchEndDate": "15/07/2026"
+  },
+  {
+    "id": 1773900592889,
+    "location": "Bengaluru Center",
+    "batchNumber": "BLR-01",
+    "batchStartDate": "01/04/2026",
+    "batchEndDate": "31/05/2026"
+  },
+  {
+    "id": 1773900616827,
+    "location": "Bengaluru Center",
+    "batchNumber": "BLR-02",
+    "batchStartDate": "01/06/2026",
+    "batchEndDate": "31/07/2026",
+    "batchStatus": "active"
+  },
+  {
+    "id": 1773900652947,
+    "location": "Delhi Hub",
+    "batchNumber": "DEL-02",
+    "batchStartDate": "01/06/2026",
+    "batchEndDate": "31/07/2026"
+  }
+]

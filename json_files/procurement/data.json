@@ -1,0 +1,18 @@
+{
+  "vendors": [
+    {
+      "id": 1774012796430,
+      "name": "ABC",
+      "category": "Education Materials",
+      "credentialRef": "dsfdfsdf",
+      "contact": "956565653656",
+      "email": "",
+      "validTill": "",
+      "status": "Active"
+    }
+  ],
+  "requisitions": [],
+  "quotations": [],
+  "purchaseOrders": [],
+  "grns": []
+}

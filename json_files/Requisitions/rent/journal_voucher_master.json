@@ -1,0 +1,22 @@
+[
+  {
+    "landlordName": "Asha Properties LLP",
+    "ledgerName": "Rent Payable",
+    "mappedOn": "02/06/2026"
+  },
+  {
+    "landlordName": "Eastview Foundation",
+    "ledgerName": "Rent Payable",
+    "mappedOn": "02/06/2026"
+  },
+  {
+    "landlordName": "Meridian Workspace Pvt Ltd",
+    "ledgerName": "Rent Payable",
+    "mappedOn": "02/06/2026"
+  },
+  {
+    "landlordName": "North Star Trust",
+    "ledgerName": "Rent Payable",
+    "mappedOn": "02/06/2026"
+  }
+]

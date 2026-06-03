@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "General Fund",
+    "code": "GF-01",
+    "status": "Active",
+    "creator": "Admin",
+    "date": "01/10/2023"
+  },
+  {
+    "id": 2,
+    "name": "Infrastructure Fund",
+    "code": "IF-22",
+    "status": "Active",
+    "creator": "Admin",
+    "date": "05/11/2023"
+  }
+]

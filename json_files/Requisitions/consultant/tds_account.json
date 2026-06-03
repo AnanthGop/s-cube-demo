@@ -1,0 +1,17 @@
+[
+  {
+    "accountName": "TDS Account (194J)",
+    "type": "Fees for Professional Services",
+    "section": "194J",
+    "rate": 10,
+    "appliedOn": "29/03/2026"
+  },
+  {
+    "accountName": "TDS Account (194J)",
+    "type": "Liability",
+    "section": "194J",
+    "rate": 10,
+    "appliedOn": "2024-01-01",
+    "description": "TDS on fees for professional or technical services"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1773938092980,
+    "fy": "2023-2024",
+    "assetType": "Office Equipment",
+    "depreciationRate": "15"
+  },
+  {
+    "id": 1773938366067.397,
+    "fy": "2024-2025",
+    "assetType": "Office Equipment",
+    "depreciationRate": "15"
+  },
+  {
+    "id": 1773938374213.048,
+    "fy": "2025-2026",
+    "assetType": "Office Equipment",
+    "depreciationRate": "15"
+  },
+  {
+    "id": 1773938790670,
+    "fy": "2023-2024",
+    "assetType": "Vehicles",
+    "depreciationRate": "10"
+  },
+  {
+    "id": 1773938798969,
+    "fy": "2023-2024",
+    "assetType": "Computers & Peripherals",
+    "depreciationRate": "30"
+  },
+  {
+    "id": 1773938803583.4666,
+    "fy": "2024-2025",
+    "assetType": "Vehicles",
+    "depreciationRate": "10"
+  },
+  {
+    "id": 1773938803583.4683,
+    "fy": "2024-2025",
+    "assetType": "Computers & Peripherals",
+    "depreciationRate": "30"
+  },
+  {
+    "id": 1773938849540.3135,
+    "fy": "2025-2026",
+    "assetType": "Vehicles",
+    "depreciationRate": "10"
+  },
+  {
+    "id": 1773938849540.3215,
+    "fy": "2025-2026",
+    "assetType": "Computers & Peripherals",
+    "depreciationRate": "30"
+  }
+]

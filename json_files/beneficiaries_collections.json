@@ -1,0 +1,25 @@
+[
+  {
+    "beneficiaryId": 1773902185307,
+    "amountCollected": "500",
+    "collectionDate": "2026-03-15",
+    "receiptNumber": "RCPT-1773902185307",
+    "id": 1773912598860
+  },
+  {
+    "id": 1773912612549,
+    "beneficiaryId": 1773911387337,
+    "amountCollected": "200",
+    "collectionDate": "2026-03-18",
+    "receiptNumber": "RCPT-1773911387337-001",
+    "createdAt": "2026-03-19T09:30:12.549Z"
+  },
+  {
+    "id": 1773912643350,
+    "beneficiaryId": 1773911387337,
+    "amountCollected": "800",
+    "collectionDate": "2026-03-19",
+    "receiptNumber": "RCPT-1773911387337-002",
+    "createdAt": "2026-03-19T09:30:43.350Z"
+  }
+]

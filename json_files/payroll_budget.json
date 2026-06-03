@@ -1,0 +1,41 @@
+[
+  {
+    "financialYear": "2026-2027",
+    "employees": [
+      {
+        "id": 1,
+        "name": "Sandhya",
+        "designation": "Senior Manager",
+        "location": "Mumbai Office",
+        "joiningDate": "2023-04-15",
+        "currentGrossSalary": 75000,
+        "incrementMonth": "2026-04",
+        "incrementAmount": 7500,
+        "newSalary": 82500
+      },
+      {
+        "id": 2,
+        "name": "Ananth",
+        "designation": "Finance Officer",
+        "location": "Delhi Hub",
+        "joiningDate": "2024-01-10",
+        "currentGrossSalary": 55000,
+        "incrementMonth": "2026-07",
+        "incrementAmount": 5000,
+        "newSalary": 60000
+      },
+      {
+        "id": 3,
+        "name": "Manoj",
+        "designation": "Project Coordinator",
+        "location": "Bengaluru Center",
+        "joiningDate": "2023-09-01",
+        "currentGrossSalary": 45000,
+        "incrementMonth": "2025-09",
+        "incrementAmount": 4500,
+        "newSalary": 49500
+      }
+    ],
+    "lastUpdated": "2026-03-07T16:34:32.520Z"
+  }
+]

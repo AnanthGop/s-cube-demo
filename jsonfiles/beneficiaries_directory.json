@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1773902185307,
+    "name": "sandhya",
+    "age": 18,
+    "education": "below 10th Pass",
+    "gender": "female",
+    "caste": "SC",
+    "contactDetails": "556644331",
+    "address": "dsfdsfsdf",
+    "financialStatus": "BPL",
+    "location": "Mumbai Office",
+    "batchNumber": "Mumbai-02",
+    "referredBy": "self"
+  },
+  {
+    "id": 1773911387337,
+    "name": "Ananth",
+    "age": 20,
+    "education": "12th pass",
+    "gender": "male",
+    "caste": "SC",
+    "contactDetails": "1234567890",
+    "address": "abdc",
+    "financialStatus": "BPL",
+    "location": "Mumbai Office",
+    "batchNumber": "Mumbai-02",
+    "referredBy": "self"
+  },
+  {
+    "id": 1773911430168,
+    "name": "Rajesh",
+    "age": 21,
+    "education": "below 10th Pass",
+    "gender": "male",
+    "caste": "SC",
+    "contactDetails": "1234560000",
+    "address": "abcd",
+    "financialStatus": "BPL",
+    "location": "Bengaluru Center",
+    "batchNumber": "BLR-02",
+    "referredBy": "self"
+  },
+  {
+    "id": 1773911481745,
+    "name": "Gopal",
+    "age": 17,
+    "education": "graduate",
+    "gender": "male",
+    "caste": "SC",
+    "contactDetails": "7894561330",
+    "address": "xcvb",
+    "financialStatus": "BPL",
+    "location": "Bengaluru Center",
+    "batchNumber": "BLR-02",
+    "referredBy": "self"
+  },
+  {
+    "id": 1773911524869,
+    "name": "Vignesh",
+    "age": 18,
+    "education": "below 10th Pass",
+    "gender": "male",
+    "caste": "SC",
+    "contactDetails": "123654789",
+    "address": "bnmvj",
+    "financialStatus": "BPL",
+    "location": "Delhi Hub",
+    "batchNumber": "DEL-02",
+    "referredBy": "self"
+  }
+]

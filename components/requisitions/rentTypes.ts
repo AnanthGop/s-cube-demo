@@ -1,0 +1,37 @@
+export interface RentEntry {
+  id: string;
+  centre: string;
+  landlordName: string;
+  contactNumber?: string;
+  email?: string;
+  address?: string;
+  bankDetails?: string;
+  panNumber?: string;
+  nameAsPerPan?: string;
+  rentalAgreement?: string;
+  renewalIn2Months: string;
+  startDate: string;
+  endDate: string;
+  agreementTerminationDate?: string;
+  terminationReason?: string;
+  fundType?: string;
+  rentAmount: number;
+  gstAmount?: number;
+  totalRentAmount?: number;
+  incrementType?: "Percentage" | "Amount";
+  incrementValue?: number;
+  incrementPercent?: number;
+  incrementPeriod?: string;
+  incrementCustomDate?: string;
+  securityDeposit: number;
+  securityDepositRefunded: string;
+  amountRefunded?: number;
+  dateOfRefund?: string;
+  activeForJV: string;
+  autoPostingDate?: string;
+  budgetCode?: string;
+  currentRent: number;
+  tds?: number;
+  status?: string;
+  remarks?: string;
+}

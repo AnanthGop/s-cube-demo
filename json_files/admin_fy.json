@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "2023-2024",
+    "startDate": "01/04/2023",
+    "endDate": "31/03/2024",
+    "status": "Close",
+    "creator": "Admin",
+    "date": "01/04/2023"
+  },
+  {
+    "id": 2,
+    "name": "2024-2025",
+    "startDate": "01/04/2024",
+    "endDate": "31/03/2025",
+    "status": "Open",
+    "creator": "Admin",
+    "date": "01/04/2024"
+  },
+  {
+    "id": 3,
+    "name": "2025-2026",
+    "startDate": "01/04/2025",
+    "endDate": "31/03/2026",
+    "status": "Open",
+    "creator": "Admin",
+    "date": "01/04/2025"
+  },
+  {
+    "name": "2026-2027",
+    "code": "",
+    "status": "Open",
+    "locations": [],
+    "startDate": "01/04/2026",
+    "endDate": "31/03/2027",
+    "id": 1771778571617,
+    "creator": "a",
+    "date": "22/02/2026"
+  },
+  {
+    "name": "2027-2028",
+    "code": "",
+    "status": "Open",
+    "locations": [],
+    "startDate": "01/04/2027",
+    "endDate": "31/03/2028",
+    "id": 1774018242171,
+    "creator": "a",
+    "date": "20/03/2026"
+  }
+]

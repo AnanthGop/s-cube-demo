@@ -1,0 +1,41 @@
+{
+  "name": "cash-flow-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "dev:backend": "node server.cjs",
+    "dev:ollama-extractor": "node server.ollama.cjs",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "tsc --noEmit",
+    "test": "node --experimental-strip-types tests/donorRules.test.ts && node --experimental-strip-types tests/donationRules.test.ts && node --experimental-strip-types tests/form10bdRules.test.ts && node --experimental-strip-types tests/postLoginNavigation.test.ts && node --experimental-strip-types tests/rentDummyData.test.ts && node --experimental-strip-types tests/consultantTravelVoucherNumbers.test.ts && node --experimental-strip-types tests/voucherDummyData.test.ts && node --experimental-strip-types tests/cashFlowVoucherRows.test.ts && node --experimental-strip-types tests/githubPagesDeploy.test.ts"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.2.0",
+    "clsx": "^2.1.1",
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "framer-motion": "^12.34.3",
+    "lucide-react": "^0.575.0",
+    "mammoth": "^1.11.0",
+    "multer": "^2.1.1",
+    "openai": "^6.25.0",
+    "pdf-parse": "^2.4.5",
+    "pdf2json": "^4.0.2",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "tailwind-merge": "^3.5.0",
+    "tailwindcss": "^4.2.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@types/multer": "^2.0.0",
+    "@types/node": "^22.14.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}

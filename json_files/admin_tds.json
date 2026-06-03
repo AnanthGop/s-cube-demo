@@ -1,0 +1,263 @@
+[
+  {
+    "id": 1,
+    "fy": "2024-2025",
+    "type": "Professional Fees",
+    "section": "194J",
+    "rate": 10,
+    "threshold": 30000,
+    "status": "Active"
+  },
+  {
+    "id": 2,
+    "fy": "2024-2025",
+    "type": "Contractors (Indiv/HUF)",
+    "section": "194C",
+    "rate": 1,
+    "threshold": 100000,
+    "status": "Active"
+  },
+  {
+    "id": 3,
+    "fy": "2024-2025",
+    "type": "Rent - Land & Bldg",
+    "section": "194I",
+    "rate": 10,
+    "threshold": 240000,
+    "status": "Active"
+  },
+  {
+    "id": 4,
+    "fy": "2024-2025",
+    "type": "Commission/Brokerage",
+    "section": "194H",
+    "rate": 5,
+    "threshold": 15000,
+    "status": "Active"
+  },
+  {
+    "id": 5,
+    "fy": "2024-2025",
+    "type": "Contractors (Others/Non-Indiv)",
+    "section": "194C",
+    "rate": 2,
+    "threshold": 100000,
+    "status": "Active"
+  },
+  {
+    "id": 101,
+    "fy": "2025-2026",
+    "type": "Contractors (Individual/HUF)",
+    "section": "194C",
+    "rate": 1,
+    "threshold": 30000,
+    "status": "Active"
+  },
+  {
+    "id": 102,
+    "fy": "2025-2026",
+    "type": "Contractors (Others)",
+    "section": "194C",
+    "rate": 2,
+    "threshold": 30000,
+    "status": "Active"
+  },
+  {
+    "id": 103,
+    "fy": "2025-2026",
+    "type": "Fees for Professional Services",
+    "section": "194J",
+    "rate": 10,
+    "threshold": 30000,
+    "status": "Active"
+  },
+  {
+    "id": 104,
+    "fy": "2025-2026",
+    "type": "Fees for Technical Services",
+    "section": "194J",
+    "rate": 2,
+    "threshold": 30000,
+    "status": "Active"
+  },
+  {
+    "id": 105,
+    "fy": "2025-2026",
+    "type": "Rent of Land and Building",
+    "section": "194I",
+    "rate": 10,
+    "threshold": 240000,
+    "status": "Active"
+  },
+  {
+    "id": 106,
+    "fy": "2025-2026",
+    "type": "Rent of Plant and Machinery",
+    "section": "194I",
+    "rate": 2,
+    "threshold": 240000,
+    "status": "Active"
+  },
+  {
+    "id": 107,
+    "fy": "2025-2026",
+    "type": "Commission or Brokerage",
+    "section": "194H",
+    "rate": 5,
+    "threshold": 15000,
+    "status": "Active"
+  },
+  {
+    "id": 108,
+    "fy": "2025-2026",
+    "type": "Interest other than Interest on Securities",
+    "section": "194A",
+    "rate": 10,
+    "threshold": 40000,
+    "status": "Active"
+  },
+  {
+    "id": 109,
+    "fy": "2025-2026",
+    "type": "Purchase of Goods",
+    "section": "194Q",
+    "rate": 0.1,
+    "threshold": 5000000,
+    "status": "Active"
+  },
+  {
+    "id": 110,
+    "fy": "2025-2026",
+    "type": "Transfer of Immovable Property",
+    "section": "194-IA",
+    "rate": 1,
+    "threshold": 5000000,
+    "status": "Active"
+  },
+  {
+    "id": 111,
+    "fy": "2025-2026",
+    "type": "Business Perquisites",
+    "section": "194R",
+    "rate": 10,
+    "threshold": 20000,
+    "status": "Active"
+  },
+  {
+    "id": 112,
+    "fy": "2025-2026",
+    "type": "Insurance Commission",
+    "section": "194D",
+    "rate": 5,
+    "threshold": 15000,
+    "status": "Active"
+  },
+  {
+    "id": 1771778658225.4392,
+    "fy": "2026-2027",
+    "type": "Contractors (Individual/HUF)",
+    "section": "194C",
+    "rate": 1,
+    "threshold": 30000,
+    "status": "Active"
+  },
+  {
+    "id": 1771778658225.2168,
+    "fy": "2026-2027",
+    "type": "Contractors (Others)",
+    "section": "194C",
+    "rate": 2,
+    "threshold": 30000,
+    "status": "Active"
+  },
+  {
+    "id": 1771778658225.9849,
+    "fy": "2026-2027",
+    "type": "Fees for Professional Services",
+    "section": "194J",
+    "rate": 10,
+    "threshold": 30000,
+    "status": "Active"
+  },
+  {
+    "id": 1771778658225.7244,
+    "fy": "2026-2027",
+    "type": "Fees for Technical Services",
+    "section": "194J",
+    "rate": 2,
+    "threshold": 30000,
+    "status": "Active"
+  },
+  {
+    "id": 1771778658225.9268,
+    "fy": "2026-2027",
+    "type": "Rent of Land and Building",
+    "section": "194I",
+    "rate": 10,
+    "threshold": 240000,
+    "status": "Active"
+  },
+  {
+    "id": 1771778658225.2515,
+    "fy": "2026-2027",
+    "type": "Rent of Plant and Machinery",
+    "section": "194I",
+    "rate": 2,
+    "threshold": 240000,
+    "status": "Active"
+  },
+  {
+    "id": 1771778658225.269,
+    "fy": "2026-2027",
+    "type": "Commission or Brokerage",
+    "section": "194H",
+    "rate": 5,
+    "threshold": 15000,
+    "status": "Active"
+  },
+  {
+    "id": 1771778658225.8813,
+    "fy": "2026-2027",
+    "type": "Interest other than Interest on Securities",
+    "section": "194A",
+    "rate": 10,
+    "threshold": 40000,
+    "status": "Active"
+  },
+  {
+    "id": 1771778658225.308,
+    "fy": "2026-2027",
+    "type": "Purchase of Goods",
+    "section": "194Q",
+    "rate": 0.1,
+    "threshold": 5000000,
+    "status": "Active"
+  },
+  {
+    "id": 1771778658225.3271,
+    "fy": "2026-2027",
+    "type": "Transfer of Immovable Property",
+    "section": "194-IA",
+    "rate": 1,
+    "threshold": 5000000,
+    "status": "Active"
+  },
+  {
+    "id": 1771778658225.256,
+    "fy": "2026-2027",
+    "type": "Business Perquisites",
+    "section": "194R",
+    "rate": 10,
+    "threshold": 20000,
+    "status": "Active"
+  },
+  {
+    "id": 1771778658225.486,
+    "fy": "2026-2027",
+    "type": "Insurance Commission",
+    "section": "194D",
+    "rate": 5,
+    "threshold": 15000,
+    "status": "Active"
+  }
+]

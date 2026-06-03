@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Local Funds",
+    "code": "LC",
+    "status": "Active",
+    "creator": "Admin",
+    "date": "01/10/2023"
+  },
+  {
+    "id": 2,
+    "name": "FCRA Funds",
+    "code": "FC",
+    "status": "Active",
+    "creator": "Admin",
+    "date": "05/11/2023"
+  }
+]

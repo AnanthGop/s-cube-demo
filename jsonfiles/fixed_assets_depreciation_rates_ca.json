@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1773938137455,
+    "fy": "2023-2024",
+    "assetType": "Office Equipment",
+    "usefulLife": "3",
+    "salvageValue": "5"
+  },
+  {
+    "id": 1773938368543.0098,
+    "fy": "2024-2025",
+    "assetType": "Office Equipment",
+    "usefulLife": "3",
+    "salvageValue": "5"
+  },
+  {
+    "id": 1773938376348.7314,
+    "fy": "2025-2026",
+    "assetType": "Office Equipment",
+    "usefulLife": "3",
+    "salvageValue": "5"
+  },
+  {
+    "id": 1773938828732,
+    "fy": "2023-2024",
+    "assetType": "Vehicles",
+    "usefulLife": "10",
+    "salvageValue": "5"
+  },
+  {
+    "id": 1773938837899,
+    "fy": "2023-2024",
+    "assetType": "Computers & Peripherals",
+    "usefulLife": "3",
+    "salvageValue": "5"
+  },
+  {
+    "id": 1773938844887.5818,
+    "fy": "2024-2025",
+    "assetType": "Vehicles",
+    "usefulLife": "10",
+    "salvageValue": "5"
+  },
+  {
+    "id": 1773938844887.7913,
+    "fy": "2024-2025",
+    "assetType": "Computers & Peripherals",
+    "usefulLife": "3",
+    "salvageValue": "5"
+  },
+  {
+    "id": 1773938851633.1316,
+    "fy": "2025-2026",
+    "assetType": "Vehicles",
+    "usefulLife": "10",
+    "salvageValue": "5"
+  },
+  {
+    "id": 1773938851634.183,
+    "fy": "2025-2026",
+    "assetType": "Computers & Peripherals",
+    "usefulLife": "3",
+    "salvageValue": "5"
+  }
+]

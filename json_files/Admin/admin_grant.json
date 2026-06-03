@@ -1,0 +1,38 @@
+[
+  {
+    "id": "GR-001",
+    "nameOfGrantor": "UNESCO",
+    "name": "UNESCO Grant",
+    "code": "UN-2024",
+    "periodStart": "2024-04-01",
+    "periodEnd": "2027-03-31",
+    "approvedGrantAmount": 5000000,
+    "grantReceivedTillDate": 2500000,
+    "balanceGrantReceivable": 2500000,
+    "fucFrequency": "Quarterly",
+    "projectReportFrequency": "Half-Yearly",
+    "auditedFUC": "Y",
+    "auditedFUCDate": "2025-03-31",
+    "status": "Active",
+    "creator": "Admin",
+    "date": "15/10/2023"
+  },
+  {
+    "id": "GR-002",
+    "nameOfGrantor": "Tech Innovation Foundation",
+    "name": "Tech Innovation",
+    "code": "TECH-X",
+    "periodStart": "2023-12-01",
+    "periodEnd": "2025-11-30",
+    "approvedGrantAmount": 2000000,
+    "grantReceivedTillDate": 1200000,
+    "balanceGrantReceivable": 800000,
+    "fucFrequency": "Half-Yearly",
+    "projectReportFrequency": "Quarterly",
+    "auditedFUC": "N",
+    "auditedFUCDate": "",
+    "status": "Active",
+    "creator": "Admin",
+    "date": "01/12/2023"
+  }
+]

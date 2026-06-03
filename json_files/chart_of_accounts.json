@@ -1,0 +1,104 @@
+[
+  {
+    "master": "Assets",
+    "groups": [
+      {
+        "name": "Current Assets",
+        "ledgers": [
+          "Cash in Hand",
+          "Bank Accounts - FCRA",
+          "Bank Account Local"
+        ]
+      },
+      {
+        "name": "Fixed Assets",
+        "ledgers": [
+          "Office Equipment",
+          "Vehicles",
+          "COMPUTERS & PERIPHERALS"
+        ]
+      }
+    ]
+  },
+  {
+    "master": "Liabilities",
+    "groups": [
+      {
+        "name": "Current Liabilities",
+        "ledgers": [
+          "Accounts Payable",
+          "Short-term Loans"
+        ]
+      },
+      {
+        "name": "Sundry Creditors",
+        "ledgers": [
+          {
+            "name": "UVW PARTY",
+            "isPartyAccount": true,
+            "partyDetails": {
+              "panNo": "",
+              "address": "",
+              "contactNo": "",
+              "gstNo": "",
+              "nameAsPerBank": "",
+              "bankDetails": "",
+              "ifscCode": "",
+              "tdsCode": "",
+              "attachments": []
+            }
+          },
+          {
+            "name": "PQR LTD",
+            "isPartyAccount": true,
+            "partyDetails": {
+              "panNo": "",
+              "address": "",
+              "contactNo": "",
+              "gstNo": "",
+              "nameAsPerBank": "",
+              "bankDetails": "",
+              "ifscCode": "",
+              "tdsCode": "",
+              "attachments": []
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "Income",
+    "groups": [
+      {
+        "name": "Grant Income",
+        "ledgers": [
+          "UNESCO Disbursement",
+          "Direct Donor Contribution"
+        ]
+      }
+    ]
+  },
+  {
+    "master": "Expenditure",
+    "groups": [
+      {
+        "name": "Personnel Services",
+        "ledgers": [
+          "Base Salary",
+          "Overtime Pay"
+        ]
+      },
+      {
+        "name": "Operational Costs",
+        "ledgers": [
+          "Office Rent",
+          "Electricity",
+          "REPAIRS & MAINTENANCE",
+          "PROFESSIONAL CHARGES",
+          "COMPUTER MAINTENANCE"
+        ]
+      }
+    ]
+  }
+]

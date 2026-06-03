@@ -1,0 +1,185 @@
+[
+  {
+    "financialYearId": "2",
+    "financialYearName": "2024-2025",
+    "startDate": "2024-04-01",
+    "endDate": "2025-03-31",
+    "employees": [],
+    "generatedAt": "01/04/2024_31/03/2025"
+  },
+  {
+    "financialYearId": "3",
+    "financialYearName": "2025-2026",
+    "startDate": "2025-04-01",
+    "endDate": "2026-03-31",
+    "employees": [],
+    "generatedAt": "01/04/2025_31/03/2026"
+  },
+  {
+    "financialYearId": "1771778571617",
+    "financialYearName": "2026-2027",
+    "startDate": "2026-04-01",
+    "endDate": "2027-03-31",
+    "employees": [
+      {
+        "employeeName": "Alpha",
+        "entryCount": 4,
+        "monthlyDetails": [
+          {
+            "monthKey": "2026-04",
+            "monthLabel": "Apr 2026",
+            "amount": 0
+          },
+          {
+            "monthKey": "2026-05",
+            "monthLabel": "May 2026",
+            "amount": 0
+          },
+          {
+            "monthKey": "2026-06",
+            "monthLabel": "Jun 2026",
+            "amount": 30000,
+            "expenseVoucherNo": "EV-202606-ALPHA",
+            "paymentVoucherNo": "PV-202606-ALPHA"
+          },
+          {
+            "monthKey": "2026-07",
+            "monthLabel": "Jul 2026",
+            "amount": 0
+          },
+          {
+            "monthKey": "2026-08",
+            "monthLabel": "Aug 2026",
+            "amount": 0
+          },
+          {
+            "monthKey": "2026-09",
+            "monthLabel": "Sep 2026",
+            "amount": 30000,
+            "expenseVoucherNo": "EV-202609-ALPHA",
+            "paymentVoucherNo": "PV-202609-ALPHA"
+          },
+          {
+            "monthKey": "2026-10",
+            "monthLabel": "Oct 2026",
+            "amount": 0
+          },
+          {
+            "monthKey": "2026-11",
+            "monthLabel": "Nov 2026",
+            "amount": 0
+          },
+          {
+            "monthKey": "2026-12",
+            "monthLabel": "Dec 2026",
+            "amount": 30000,
+            "expenseVoucherNo": "EV-202612-ALPHA",
+            "paymentVoucherNo": "PV-202612-ALPHA"
+          },
+          {
+            "monthKey": "2027-01",
+            "monthLabel": "Jan 2027",
+            "amount": 0
+          },
+          {
+            "monthKey": "2027-02",
+            "monthLabel": "Feb 2027",
+            "amount": 0
+          },
+          {
+            "monthKey": "2027-03",
+            "monthLabel": "Mar 2027",
+            "amount": 30000,
+            "expenseVoucherNo": "EV-202703-ALPHA",
+            "paymentVoucherNo": "PV-202703-ALPHA"
+          }
+        ]
+      },
+      {
+        "employeeName": "Seaside",
+        "entryCount": 5,
+        "monthlyDetails": [
+          {
+            "monthKey": "2026-04",
+            "monthLabel": "Apr 2026",
+            "amount": 12500,
+            "expenseVoucherNo": "EV-202604-SEASIDE",
+            "paymentVoucherNo": "PV-202604-SEASIDE"
+          },
+          {
+            "monthKey": "2026-05",
+            "monthLabel": "May 2026",
+            "amount": 12500,
+            "expenseVoucherNo": "EV-202605-SEASIDE",
+            "paymentVoucherNo": "PV-202605-SEASIDE"
+          },
+          {
+            "monthKey": "2026-06",
+            "monthLabel": "Jun 2026",
+            "amount": 12500,
+            "expenseVoucherNo": "EV-202606-SEASIDE",
+            "paymentVoucherNo": "PV-202606-SEASIDE"
+          },
+          {
+            "monthKey": "2026-07",
+            "monthLabel": "Jul 2026",
+            "amount": 12500,
+            "expenseVoucherNo": "EV-202607-SEASIDE",
+            "paymentVoucherNo": "PV-202607-SEASIDE"
+          },
+          {
+            "monthKey": "2026-08",
+            "monthLabel": "Aug 2026",
+            "amount": 12500,
+            "expenseVoucherNo": "EV-202608-SEASIDE",
+            "paymentVoucherNo": "PV-202608-SEASIDE"
+          },
+          {
+            "monthKey": "2026-09",
+            "monthLabel": "Sep 2026",
+            "amount": 0
+          },
+          {
+            "monthKey": "2026-10",
+            "monthLabel": "Oct 2026",
+            "amount": 0
+          },
+          {
+            "monthKey": "2026-11",
+            "monthLabel": "Nov 2026",
+            "amount": 0
+          },
+          {
+            "monthKey": "2026-12",
+            "monthLabel": "Dec 2026",
+            "amount": 0
+          },
+          {
+            "monthKey": "2027-01",
+            "monthLabel": "Jan 2027",
+            "amount": 0
+          },
+          {
+            "monthKey": "2027-02",
+            "monthLabel": "Feb 2027",
+            "amount": 0
+          },
+          {
+            "monthKey": "2027-03",
+            "monthLabel": "Mar 2027",
+            "amount": 0
+          }
+        ]
+      }
+    ],
+    "generatedAt": "01/04/2026_31/03/2027"
+  },
+  {
+    "financialYearId": "1774018242171",
+    "financialYearName": "2027-2028",
+    "startDate": "2027-04-01",
+    "endDate": "2028-03-31",
+    "employees": [],
+    "generatedAt": "01/04/2027_31/03/2028"
+  }
+]

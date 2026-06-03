@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Administration",
+    "code": "ADM-01",
+    "status": "Active",
+    "creator": "Admin",
+    "date": "20/09/2023"
+  },
+  {
+    "id": 2,
+    "name": "Field Operations",
+    "code": "OPS-99",
+    "status": "Active",
+    "creator": "Admin",
+    "date": "10/10/2023"
+  }
+]

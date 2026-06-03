@@ -1,0 +1,32 @@
+[
+  {
+    "id": "C001",
+    "vendorName": "Consultant A",
+    "location": "Bengaluru Center",
+    "postingFrequency": "Monthly",
+    "panNo": "AAAB123C",
+    "nameAsPerPan": "Consultant A",
+    "bankDetails": "Account Name: Consultant A | Account Number: 123456789001234 | Bank Name: Axis Bank | IFSC Code: UTIB0000222 | Branch: KN",
+    "email": "abc@abc.com",
+    "consultantType": "Program",
+    "contactNumber": "1111111111",
+    "address": "zxcvb",
+    "agreementSignedBy": "",
+    "expenseHead": "",
+    "agreementStartDate": "2025-04-01",
+    "agreementEndDate": "2027-03-31",
+    "autoPosting": "Y",
+    "autoPostingDate": "1st",
+    "attachments": "",
+    "budgetCode": "",
+    "fundType": "LC",
+    "grossAmount": 10000,
+    "gstPercent": 18,
+    "gstAmount": 1800,
+    "totalAmount": 11800,
+    "tdsRuleName": "TDS on Contractors",
+    "tdsPercent": 2,
+    "agreementTerminationDate": "2027-01-31",
+    "terminationReason": "closed"
+  }
+]

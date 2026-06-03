@@ -1,0 +1,46 @@
+[
+  {
+    "master": "Assets",
+    "groups": [
+      {
+        "name": "Current Assets",
+        "ledgers": ["Cash in Hand", "Bank Balance - Chase"]
+      },
+      {
+        "name": "Fixed Assets",
+        "ledgers": ["Office Equipment", "Vehicles"]
+      }
+    ]
+  },
+  {
+    "master": "Liabilities",
+    "groups": [
+      {
+        "name": "Current Liabilities",
+        "ledgers": ["Accounts Payable", "Short-term Loans"]
+      }
+    ]
+  },
+  {
+    "master": "Income",
+    "groups": [
+      {
+        "name": "Grant Income",
+        "ledgers": ["UNESCO Disbursement", "Direct Donor Contribution"]
+      }
+    ]
+  },
+  {
+    "master": "Expenditure",
+    "groups": [
+      {
+        "name": "Personnel Services",
+        "ledgers": ["Base Salary", "Overtime Pay"]
+      },
+      {
+        "name": "Operational Costs",
+        "ledgers": ["Office Rent", "Electricity"]
+      }
+    ]
+  }
+]

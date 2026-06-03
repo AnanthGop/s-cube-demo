@@ -1,0 +1,177 @@
+{
+  "vendors": [
+    {
+      "id": 1001,
+      "name": "HopeMed Supplies",
+      "category": "Medical Supplies",
+      "credentialRef": "PAN-AABCH1234K",
+      "contact": "+91-9876543210",
+      "email": "sales@hopemed.org",
+      "validTill": "2026-12-31",
+      "status": "Active"
+    },
+    {
+      "id": 1002,
+      "name": "EduKit Foundation Services",
+      "category": "Education Materials",
+      "credentialRef": "PAN-AABCE5678P",
+      "contact": "+91-9988776655",
+      "email": "quotes@edukit.org",
+      "validTill": "2026-11-30",
+      "status": "Active"
+    },
+    {
+      "id": 1003,
+      "name": "Seva Logistics LLP",
+      "category": "Logistics",
+      "credentialRef": "PAN-AACCS2468R",
+      "contact": "+91-9123456780",
+      "email": "ops@sevalogistics.in",
+      "validTill": "2026-10-15",
+      "status": "Active"
+    }
+  ],
+  "requisitions": [
+    {
+      "id": 2001,
+      "requisitionNo": "PR-240901",
+      "itemSummary": "School hygiene kits for district rollout",
+      "program": "Child Health Program",
+      "fundCode": "FUND-CH-001",
+      "amount": 480000,
+      "budgetAvailable": 650000,
+      "requestedBy": "Program Team",
+      "createdOn": "2026-03-15",
+      "status": "Approved",
+      "budgetCheck": "Pass"
+    },
+    {
+      "id": 2002,
+      "requisitionNo": "PR-240902",
+      "itemSummary": "Tablet devices for digital learning centers",
+      "program": "Education Program",
+      "fundCode": "FUND-EDU-014",
+      "amount": 780000,
+      "budgetAvailable": 800000,
+      "requestedBy": "Education Team",
+      "createdOn": "2026-03-16",
+      "status": "Submitted",
+      "budgetCheck": "Pass"
+    },
+    {
+      "id": 2003,
+      "requisitionNo": "PR-240903",
+      "itemSummary": "Nutrition packets for community outreach",
+      "program": "Nutrition Program",
+      "fundCode": "FUND-NUT-008",
+      "amount": 520000,
+      "budgetAvailable": 450000,
+      "requestedBy": "Community Team",
+      "createdOn": "2026-03-17",
+      "status": "Draft",
+      "budgetCheck": "Fail"
+    }
+  ],
+  "quotations": [
+    {
+      "id": 3001,
+      "requisitionId": 2001,
+      "vendorId": 1001,
+      "quoteAmount": 455000,
+      "deliveryDays": 9,
+      "qualityScore": 8.7,
+      "invoiceRef": "HM-Q-112/26",
+      "aiExtractSummary": "Hygiene kits with 12-month replacement assurance.",
+      "sourceFileName": "hopemed_quote.pdf",
+      "selectedByUser": true,
+      "makerSelectedBy": "Maker",
+      "rankOrder": 1,
+      "aiScore": 0.91,
+      "aiReason": "Cost 93 | Delivery 90 | Quality 87 | Invoice 100",
+      "selectedOn": "2026-03-20",
+      "quotesReceivedForRequisition": 3,
+      "checkerStatus": "Pending",
+      "checkerBy": "",
+      "checkerOn": "",
+      "checkerRemarks": "",
+      "committeeDecision": "Pending",
+      "remarks": "Preferred for lower landed cost."
+    },
+    {
+      "id": 3002,
+      "requisitionId": 2001,
+      "vendorId": 1002,
+      "quoteAmount": 468000,
+      "deliveryDays": 11,
+      "qualityScore": 9.1,
+      "invoiceRef": "EKF-Q-078/26",
+      "aiExtractSummary": "Higher quality score and education-grade packaging.",
+      "sourceFileName": "edukit_quote.pdf",
+      "selectedByUser": false,
+      "makerSelectedBy": "",
+      "rankOrder": 2,
+      "aiScore": 0.86,
+      "aiReason": "Cost 82 | Delivery 75 | Quality 91 | Invoice 100",
+      "selectedOn": "",
+      "quotesReceivedForRequisition": 3,
+      "checkerStatus": "Pending",
+      "checkerBy": "",
+      "checkerOn": "",
+      "checkerRemarks": "",
+      "committeeDecision": "Pending",
+      "remarks": "Good quality but slower delivery."
+    },
+    {
+      "id": 3003,
+      "requisitionId": 2001,
+      "vendorId": 1003,
+      "quoteAmount": 472000,
+      "deliveryDays": 8,
+      "qualityScore": 7.9,
+      "invoiceRef": "SL-Q-455/26",
+      "aiExtractSummary": "Fast delivery, weaker historical quality trend.",
+      "sourceFileName": "seva_quote.pdf",
+      "selectedByUser": false,
+      "makerSelectedBy": "",
+      "rankOrder": 3,
+      "aiScore": 0.78,
+      "aiReason": "Cost 76 | Delivery 95 | Quality 79 | Invoice 100",
+      "selectedOn": "",
+      "quotesReceivedForRequisition": 3,
+      "checkerStatus": "Pending",
+      "checkerBy": "",
+      "checkerOn": "",
+      "checkerRemarks": "",
+      "committeeDecision": "Pending",
+      "remarks": "Delivery strong, quality weaker."
+    }
+  ],
+  "purchaseOrders": [
+    {
+      "id": 4001,
+      "poNo": "PO-240901",
+      "requisitionId": 2001,
+      "vendorId": 1002,
+      "quoteId": 3002,
+      "fundCode": "FUND-CH-001",
+      "quantity": 1200,
+      "poAmount": 468000,
+      "deliveryDue": "2026-03-28",
+      "terms": "50% advance, balance after GRN verification.",
+      "status": "Issued"
+    }
+  ],
+  "grns": [
+    {
+      "id": 5001,
+      "grnNo": "GRN-240901",
+      "poId": 4001,
+      "receivedQty": 950,
+      "invoiceAmount": 468000,
+      "receivedOn": "2026-03-19",
+      "qualityStatus": "Partial",
+      "discrepancyNote": "Short receipt of 250 units.",
+      "matchStatus": "Mismatch"
+    }
+  ]
+}

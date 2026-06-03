@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "region": "West",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "address": "456 Nariman Point, Mumbai 400021",
+    "name": "Mumbai Office",
+    "status": "Active",
+    "creator": "Admin",
+    "date": "01/01/2024"
+  },
+  {
+    "id": 2,
+    "region": "North",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "address": "123 Connaught Place, New Delhi 110001",
+    "name": "Delhi Hub",
+    "status": "Active",
+    "creator": "Admin",
+    "date": "15/01/2024"
+  },
+  {
+    "id": 3,
+    "region": "South",
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "address": "789 MG Road, Bengaluru 560001",
+    "name": "Bengaluru Center",
+    "status": "Active",
+    "creator": "Admin",
+    "date": "20/01/2024"
+  }
+]

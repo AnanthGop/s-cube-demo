@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Solar Grid 1",
+    "code": "SOL-1",
+    "locations": ["Mumbai Office", "Bengaluru Center"],
+    "status": "Active",
+    "creator": "Admin",
+    "date": "12/11/2023"
+  },
+  {
+    "id": 2,
+    "name": "Digital Literacy",
+    "code": "DIG-LIT",
+    "locations": ["Delhi Hub"],
+    "status": "Active",
+    "creator": "Active",
+    "date": "15/12/2023"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "id": "PD-001",
+    "employeeCategory": "Manager",
+    "perDiemPerDay": 5000,
+    "perDiemLimit": 50000
+  }
+]

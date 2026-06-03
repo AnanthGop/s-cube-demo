@@ -1,0 +1,9 @@
+# Every file in the repository requires review from the owner
+
+- @AnanthGop
+
+# Specific critical paths (examples)
+
+/components/** @AnanthGop
+/json_files/** @AnanthGop
+package.json @AnanthGop

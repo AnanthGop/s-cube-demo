@@ -1,0 +1,26 @@
+[
+  {
+    "id": "TR-001",
+    "employeeName": "Seaside",
+    "postingFrequency": "Monthly",
+    "travelStartDate": "2026-04-01",
+    "travelEndDate": "2026-08-31",
+    "autoPosting": "Y",
+    "grossAmount": 12500,
+    "gstPercent": 0,
+    "gstAmount": 0,
+    "totalAmount": 12500
+  },
+  {
+    "id": "TR-002",
+    "employeeName": "Alpha",
+    "postingFrequency": "Quarterly",
+    "travelStartDate": "2026-04-01",
+    "travelEndDate": "2027-03-31",
+    "autoPosting": "Y",
+    "grossAmount": 30000,
+    "gstPercent": 0,
+    "gstAmount": 0,
+    "totalAmount": 30000
+  }
+]
